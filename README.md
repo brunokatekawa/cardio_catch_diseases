@@ -29,7 +29,7 @@ Cardiovascular disease can refer to a number of conditions:
 
 PS 1: All the references are stated at the end of this README.
 
-PS 2: You can find useful information at **section 1** of my [notebook](#).
+PS 2: You can find useful information at **section 1** of my [notebook](https://github.com/brunokatekawa/cardio_catch_diseases/blob/main/pa001_cardio_catch_diseases_bruno_katekawa_c03.ipynb).
 
 <br>
 
